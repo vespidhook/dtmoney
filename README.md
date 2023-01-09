@@ -1,6 +1,6 @@
-# [![N|Solid](./imgs/logo.svg)](https://dtmoney.bas.inf.br)
+# [![N|Solid](./imgs/logo.svg)](https://github.com/vespidhook)
 
-# [![N|Solid](./imgs/home.png)](https://dtmoney.bas.inf.br)
+# [![N|Solid](./imgs/home.png)](https://github.com/vespidhook)
 
 ## Instalação
 
